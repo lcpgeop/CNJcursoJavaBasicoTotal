@@ -1,6 +1,6 @@
 package curso.cnj.javabasico.modulo4;
 
-public class Aula8 {
+public class Aula_8 {
 	
 	static int n1 = 2, n2 =5, n3=8, n4=1;
 

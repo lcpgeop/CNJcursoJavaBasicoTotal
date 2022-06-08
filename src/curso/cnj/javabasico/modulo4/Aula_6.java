@@ -5,7 +5,7 @@ package curso.cnj.javabasico.modulo4;
  *Volume do cilindro: V = PI * r² * h
  */
 
-public class Aula6 {
+public class Aula_6 {
 	static int n1 = 5;
 	static int n2 = 7;
 	static int n3 = 9;

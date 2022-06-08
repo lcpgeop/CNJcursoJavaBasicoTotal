@@ -1,6 +1,6 @@
 package curso.cnj.javabasico.modulo4;
 
-public class Aula7 {
+public class Aula_7 {
 	
 	static String nome = "Meu Nome";
 	static String nomeMae = "Minha Mãe";

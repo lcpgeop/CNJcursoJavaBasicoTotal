@@ -1,6 +1,6 @@
 package curso.cnj.javabasico.modulo4;
 
-public class Aula9 {
+public class Aula_9 {
 	
 	static boolean pAberta = false;
 	static boolean lampada = true;
