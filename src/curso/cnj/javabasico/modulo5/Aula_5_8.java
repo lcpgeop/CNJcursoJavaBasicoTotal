@@ -27,10 +27,10 @@ public class Aula_5_8 {
 				}
 				tabuada = (espaco+tabuada+espaco);
 				while(tabuada.length() > 15) {
-					tabuada= 
+					//tabuada= 
 				}
-				System.out.print(espaco+tabuada+espaco);
-				b++;
+				//System.out.print(espaco+tabuada+espaco);
+				//b++;
 			} while(b <= 10);
 			System.out.println();
 			c++;
