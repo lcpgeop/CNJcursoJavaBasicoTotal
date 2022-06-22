@@ -1,11 +1,11 @@
-package curso.cnj.javabasico;
+package curso.cnj.javabasico.modulo8;
 
 import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.time.LocalTime;
 import java.time.format.DateTimeFormatter;
 
-public class modulo8 {
+public class Aula1 {
 	
 	public static void main(String[] args) {
 		
